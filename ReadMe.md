@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on web applications, custom sites, and WordPress<br>👯 I’m looking to collaborate on frontend and backend projects<br>🤝 I’m looking for help with optimization and APIs<br>🌱 I’m currently learning new trends in JavaScript, design, and WordPress<br>💬 Ask me about web development, Tailwind, Bootstrap, and WordPress<br>⚡ Fun fact: I love creating functional interfaces
+🔭 I’m currently working on custom web applications and WordPress<br>👯 I’m looking to collaborate on frontend and backend projects<br>🤝 I’m looking for help with web optimization and APIs<br>🌱 I’m currently learning new trends in JavaScript, and WordPress<br>💬 Ask me about web development, Tailwind, Bootstrap, and WordPress<br>⚡ Fun fact: I love creating functional interfaces
 
 
 # 💻 Tech Stack
